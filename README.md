@@ -1,2 +1,2 @@
 # E-Shop
-WEB. Bandom E- parduotuve.
+WEB.PHP.CSS. Bandom E- parduotuve.
